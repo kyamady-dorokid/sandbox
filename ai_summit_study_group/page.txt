@@ -1,0 +1,349 @@
+AI要件定義サミット 2026 | AI Definition Summit
+2026.06.11 THU
+13:00 - 18:00
+TODA HALL & CONFERENCE TOKYO
+TODA HALL & CONFERENCE TOKYO
+Speakers
+Interview
+Timetable
+Information
+参加登録
+システム設計に関わるすべての人へ
+最先端のAI×上流工程を学ぶ、
+SIer・IT・DX・コンサル部門向け実践型カンファレンス
+参加登録
+後援：一般社団法人 日本経済団体連合会
+Scroll to explore
+カスタマイズ大国・
+日本の要件定義が、
+AIで進化する。
+日本企業は、長いあいだ現場の知恵をオペレーションに緻密に織り込みながら、独自の価値を生み出してきました。 その中心にあったのが、現場の実情に合わせて業務やシステムを細かく作り込む「精緻なカスタマイズ」です。 こうした積み重ねによって、業務そのものを差別化の源泉とするオペレーショナルエクセレンス（卓越した企業運営）が育まれ、日本企業の競争力を支えてきました。
+一方で今、「標準化こそ正義」「カスタマイズ＝非効率」という見方も強まっています。 人手不足や技術負債といった課題があるのは事実ですが、日本の武器であるカスタマイズそのものを手放してしまえば、競争力も失いかねません。
+これから必要なのは、カスタマイズをやめることではなく、"戦略的にカスタマイズできる構造"に変えることです。 その要となるのが、現場の業務を言語化し、設計に落とし込む「要件定義」。 ただ、この領域は長く、経験と勘に依存した"属人の壁"に閉ざされてきました。
+今、その壁をAIが壊しつつあります。 現場の知識を構造化し、設計を再現可能にすることで、「現場力を組織の力」に、「属人知を共有知」に変えていく。 AI×要件定義は、日本企業のオペレーショナルエクセレンスを次のステージへ押し上げる原動力になりうる──。
+このカンファレンスは、AIをどう活用して現場の知恵を設計に変えるかを、事業会社のIT／DX部門、SIer、SaaS企業のSE・PM・CS・Bizが、それぞれの立場から議論する場です。
+01
+Featured
+登壇企業・団体
+Featured Key Speakers
+02
+Sponsors
+スポンサー
+Platinum
+Gold
+Silver & Logo
+03
+media
+メディア
+Media Partner
+Become a Partner.
+ともに「AI時代の要件定義」を発信するパートナーを募集しています
+AI要件定義サミット2026は、AIを前提としたシステム設計・要件定義のアップデートを業界全体に広げていくことを目的としたイベントです。その思想に共感し、共創いただける企業・団体様を募集しています。登壇・協賛・情報発信など、さまざまな形でのご参加が可能です。
+Join us as a Partner !
+パートナーシップに関するお問い合わせはこちら
+04
+Speakers
+登壇者一覧
+南場 智子
+基調講演者
+ディー・エヌ・エー（DeNA）
+DeNA　代表取締役会長
+デライト・ベンチャーズ　マネージングパートナー
+大平 利幸
+内閣府規制改革推進室
+参事官（デジタル・AI担当）
+平本 健二
+独立行政法人情報処理推進機構（IPA）
+デジタル基盤センター長
+AIセーフティ・インスティテュート
+副所長
+海浦 隆一
+NTTデータグループ
+技術革新統括本部　AI技術部 部長
+広瀬 雄二
+日立製作所
+デジタルシステム＆サービス ＡＩ＆ソフトウェアサービスビジネスユニット
+アプリケーションサービス事業部 テクノロジートランスフォーメーション本部
+担当本部長
+藤巻 智彦
+日本アイ・ビー・エム
+テクノロジー事業本部 ソフトウェア・エンジニアリング事業部
+オートメーション・プラットフォーム テクニカルセールス
+木下 智文
+日本アイ・ビー・エム
+コンサルティング事業本部
+インダストリアルAI Agentic AI 全社変革リード
+高橋 寛和
+野村総合研究所
+コンサルティング事業本部
+業務・IT戦略コンサルティング部 部長
+富永 誉也
+東海旅客鉄道
+中央新幹線推進本部
+リニア開発本部　担当課長
+國政 秀太郎
+大阪ガス
+ビジネスアナリシスセンター
+副課長
+中山 雄大
+イオン
+データイノベーションセンター
+チーフデータオフィサー
+中原 柊
+Hakuhodo DY ONE
+チーフAIストラテジスト
+松本 勇気
+LayerX
+代表取締役CTO
+嶋田 健太郎
+伊藤忠テクノソリューションズ
+クロステック推進部
+半田 達哉
+セイコーソリューションズ
+戦略ビジネス事業本部
+戦略ビジネス第三本部 本部長
+AI事業統括部 統括部長
+中井 陽一郎
+ワークスアプリケーションズ
+執行役員 OXYG本部 本部長
+金子 傑
+クラスメソッド
+業務支援グループ ビジネスコンサルティング部 部長
+シニアコンサルタント・プロジェクトマネージャー
+松田 孝宏
+デジタルガレージ／
+DGビジネステクノロジー
+事業開発部 部長
+沢井 拓
+Findy
+PM室 副部室長
+Strategy Enablementチーム マネージャー
+満村 聡
+ノベルワークス
+代表取締役
+徳永 優也
+Polaris.AI
+代表取締役CEO
+佐藤 拳斗
+Kikuvi
+Founder CEO
+小路 真矢
+バク
+代表取締役社長CEO
+登壇者情報は順次更新され、今後も追加予定です
+司会 
+/ MC
+司会（MC） / ナレーター
+杉浦 美和子
+2014年より司会・進行業務に従事（10年以上）。
+上場企業の株主総会において複数年にわたり司会を務めるほか、IT・デジタル分野の業界団体主催イベントでは、総会懇親会や新春交歓会、政策関連セミナー等の進行を担当。政府関係者や国会議員、企業経営者が登壇する場での司会経験を有する。
+経営方針発表や戦略発表、記者発表、シンポジウムなどのイベントに対応し、大規模会場からオンライン・ハイブリッドまで、場に応じた進行経験を多数有する。
+05
+Timetable
+タイムテーブル
+HALL A
+HALL B
+HALL C
+13:05〜13:10
+13:05〜13:10
+オープニング
+13:10〜13:40
+KEYNOTE
+13:10〜13:40
+基調講演
+南場 智子
+　DeNA 代表取締役会長 デライト・ベンチャーズ マネージングパートナー
+HALL A
+HALL B
+HALL C
+※ HALL B・HALL C では HALL A からの中継映像で講演をご覧いただけます
+14:00〜14:40
+14:00〜14:40
+NTTデータ
+AI時代の開発プロセス実践論〜生成AI活用からAI-Native開発までのリアル〜
+海浦 隆一
+14:00〜14:40
+イオン
+AIエージェントでデータ価値を現場に届ける 〜イオンが実践する次世代リテールサービスの設計思想と展望〜
+中山 雄大
+14:00〜14:20
+Kikuvi
+要件定義は"聞く"から変わる ― AIヒアリング自動化が拓く、開発サイクル革命
+佐藤 拳斗
+14:25〜14:45
+セイコーソリューションズ
+なぜプロジェクトは止まるのか〜AIで“管理”ではなく推進するための要件定義〜
+半田 達哉
+14:50〜15:30
+14:50〜15:30
+日立製作所
+要件定義の認識ギャップをどう埋めるか〜AI×ローコードによる合意形成の実践アプローチ〜
+広瀬 雄二
+14:50〜15:30
+大阪ガス
+AIと創る「止まらない」開発組織〜人手不足と属人性を乗り越え、事業スピードを最大化する仕組みの構築〜
+國政 秀太郎
+14:50〜15:10
+Polaris.AI
+AI開発の要件定義は、なぜシステム開発と同じやり方では失敗するのか
+徳永 優也
+15:15〜15:35
+クラスメソッド
+AI活用の前に、整理すべきこと─国内企業AI活用実態調査から見えた現場のリアルと実践アプローチ
+金子 傑
+15:40〜16:20
+15:40〜16:20
+内閣府規制改革推進室
+政府情報システム調達におけるAI駆動開発の導入促進に向けた取組〜構造的課題の解決に向けた議論の方向性と期待〜
+大平 利幸
+15:40〜16:20
+野村総合研究所（NRI）/ JR東海
+リニア中央新幹線の構想をAIでどう活かすか〜事業者と変革パートナー、二つの視点から語る上流工程改革〜
+高橋 寛和、富永 誉也
+15:40〜16:00
+Findy
+要件定義からコンテキスト定義へ
+沢井 拓
+16:05〜16:25
+ノベルワークス
+「SIの殲滅」と「真の創造」──開発（実装）をAIに丸投げし、人間が「経営の成功」を勝ち取る時代へ
+満村 聡
+16:30〜17:10
+16:30〜17:10
+IBM
+AI開発をブラックボックスにしない〜コンテキストエンジニアリングと説明可能なV字開発〜
+藤巻 智彦、木下 智文
+16:30〜17:10
+Hakuhodo DY ONE
+AIで要件定義はどう変わるか〜開発の前提を問い直すAI駆動開発の実践論〜
+中原 柊
+16:30〜16:50
+ワークスアプリケーションズ
+未来志向のERP構築とAI活用のポイント
+中井 陽一郎
+16:55〜17:15
+DGビジネステクノロジー
+AI時代の上流工程で開発側の人はなにを担うのか
+松田 孝宏
+17:20〜18:00
+17:20〜18:00
+独立行政法人情報処理推進機構
+AI社会における要件の定義や管理、そして要求工学へ〜AIを前提としたシステム設計と、産業・社会を見据えた新たな定義のあり方〜
+平本 健二
+17:20〜18:00
+LayerX
+LLMと共に進化するプロセスを目指して〜FDEとPlatformによるプロジェクト推進の現在と未来〜
+松本 勇気
+17:20〜17:40
+伊藤忠テクノソリューションズ
+AI駆動開発時代における上流工程の再定義
+嶋田 健太郎
+17:45〜18:00
+バク
+要件定義構造化最前線！汎用AIとの差別化と勝ち筋〜日本を代表するSIerとの共創事例を踏まえて〜
+小路 真矢
+HALL A
+HALL B
+HALL C
+13:05〜13:10
+オープニング
+杉浦 美和子
+KEYNOTE
+13:10〜13:40
+基調講演
+南場 智子
+　DeNA 代表取締役会長 デライト・ベンチャーズ マネージングパートナー
+HALL A
+HALL B
+HALL C
+※ HALL B・HALL C では HALL A からの中継映像で講演をご覧いただけます
+14:00〜14:40
+NTTデータ
+AI時代の開発プロセス実践論〜生成AI活用からAI-Native開発までのリアル〜
+海浦 隆一
+14:50〜15:30
+日立製作所
+要件定義の認識ギャップをどう埋めるか〜AI×ローコードによる合意形成の実践アプローチ〜
+広瀬 雄二
+15:40〜16:20
+内閣府規制改革推進室
+政府情報システム調達におけるAI駆動開発の導入促進に向けた取組〜構造的課題の解決に向けた議論の方向性と期待〜
+大平 利幸
+16:30〜17:10
+IBM
+AI開発をブラックボックスにしない〜コンテキストエンジニアリングと説明可能なV字開発〜
+藤巻 智彦、木下 智文
+17:20〜18:00
+独立行政法人情報処理推進機構
+AI社会における要件の定義や管理、そして要求工学へ〜AIを前提としたシステム設計と、産業・社会を見据えた新たな定義のあり方〜
+平本 健二
+※ プログラムの内容・登壇者は変更となる場合がございます。あらかじめご了承ください。
+06
+Information
+開催情報
+イベント名
+AI要件定義サミット2026　〜AI要件定義が支える、カスタマイズ大国・日本のシステム設計の未来〜
+開催日時
+2026年6月11日（木）13:00 - 18:00
+開催形式
+オフライン開催（後日一部アーカイブ配信予定）
+対象者
+システムインテグレーター（SIer）各社、事業会社の情報システム部門・DX推進部門、プロジェクトマネージャー、プロダクト責任者、業務設計担当者など
+参加費
+無料/要事前申し込み
+主催
+株式会社ROUTE06
+後援
+一般社団法人 日本経済団体連合会
+会場情報
+TODA HALL & CONFERENCE TOKYO
+（トダ ホール＆カンファレンス トウキョウ）
+〒104-0031
+東京都中央区京橋一丁目7番1号
+TODA BUILDING 4階
+・東京駅八重洲中央口から徒歩7分
+・京橋駅から徒歩3分
+・日本橋駅から徒歩5分
+・宝町駅から徒歩7分
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Register
+参加登録
+（FREE）
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Join the AI Requirement Definition Summit
+Speakers
+Interview
+Timetable
+Information
+© 2026 AI Requirements Definition Summit. All rights reserved.
+Organized by ROUTE06, Inc.
+(self.__next_f=self.__next_f||[]).push([0])
+self.__next_f.push([1,"1:\"$Sreact.fragment\"\n2:I[33715,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"\"]\n4:I[63287,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"default\"]\n5:I[4273,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"default\"]\n6:I[78888,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"Analytics\"]\n7:I[13293,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"Header\"]\n8:I[98924,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"HeroSection\"]\n9:I[69586,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"ConceptSection\"]\na:I[97596,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"SponsorsSection\"]\nb:I[13041,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"ProgramSection\"]\n1a:I[28417,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"default\"]\n:HL[\"/2026/_next/static/chunks/8563e7d69352d6c8.css?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"style\"]\n:HL[\"/2026/_next/static/media/23b7a97ae3b5c134-s.p.2902b61f.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/5849aa7d99f8e15e-s.p.ea0ea436.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/99e609270109b47d-s.p.64b9304e.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/a343f882a40d2cc9-s.p.71e1367e.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/a7e15459c1805da0-s.p.ec654d65.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/e9d5b069f63ab620-s.p.c6182c6b.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/effe91970fc4db64-s.p.19510058.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n:HL[\"/2026/_next/static/media/f0b856f7f1c4bda0-s.p.0a1731ba.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n3:[\"$\",\"iframe\",null,{\"src\":\"https://www.googletagmanager.com/ns.html?id=GTM-WGWMQ6F7\",\"height\":\"0\",\"width\":\"0\",\"style\":{\"display\":\"none\",\"visibility\":\"hidden\"}}]\n"])
+self.__next_f.push([1,"0:{\"P\":null,\"b\":\"weH1MwF3PrXIzyJwVG-LQ\",\"c\":[\"\",\"\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"__PAGE__\",{}]},\"$undefined\",\"$undefined\",true],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/2026/_next/static/chunks/8563e7d69352d6c8.css?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"ja\",\"children\":[[\"$\",\"head\",null,{\"children\":[\"$\",\"$L2\",null,{\"id\":\"gtm\",\"strategy\":\"afterInteractive\",\"children\":\"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\\nj=d.createElement(s),dl=l!='dataLayer'?'\u0026l='+l:'';j.async=true;j.src=\\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\\n})(window,document,'script','dataLayer','GTM-WGWMQ6F7');\"}]}],[\"$\",\"body\",null,{\"className\":\"manrope_e9007382-module__PX07aG__variable font-sans antialiased\",\"children\":[[\"$\",\"noscript\",null,{\"children\":\"$3\"}],[\"$\",\"$L4\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L5\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[[\"$\",\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":404}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}],[\"$\",\"$L6\",null,{}]]}]]}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[[\"$\",\"main\",null,{\"className\":\"relative\",\"children\":[[\"$\",\"$L7\",null,{}],[\"$\",\"$L8\",null,{}],[\"$\",\"div\",null,{\"className\":\"relative z-10 mt-[70vh]\",\"children\":[[\"$\",\"$L9\",null,{}],[\"$\",\"$La\",null,{}],[\"$\",\"$Lb\",null,{}],[\"$\",\"section\",null,{\"id\":\"information\",\"className\":\"relative py-16 md:py-24 bg-[#313337] text-white px-4 md:px-5 lg:px-6 rounded-t-3xl -mt-12 md:-mt-16 z-[60] lg:py-24\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-7xl\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex flex-col gap-4 mb-8 md:mb-12 \",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-full h-[1px] bg-white/20\"}],[\"$\",\"div\",null,{\"className\":\"flex items-start text-white\",\"children\":[[\"$\",\"span\",null,{\"className\":\"text-xs md:text-sm font-medium tracking-wider leading-none pt-1\",\"children\":\"06\"}],[\"$\",\"h2\",null,{\"className\":\"text-3xl md:text-4xl font-normal tracking-tight leading-none lg:text-4xl ml-3.5\",\"children\":\"Information\"}],[\"$\",\"span\",null,{\"className\":\"ml-4 md:ml-16 text-sm leading-none md:leading-7 self-center md:self-auto pt-1 md:pt-1 text-white/60\",\"children\":\"開催情報\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"space-y-0 mb-4 md:mb-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"イベント名\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-lg md:text-xl leading-relaxed pl-5\",\"children\":\"AI要件定義サミット2026　〜AI要件定義が支える、カスタマイズ大国・日本のシステム設計の未来〜\"}]]}],[\"$\",\"div\",null,{\"className\":\"grid md:grid-cols-2 gap-x-12\",\"children\":[[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],\"$Lc\"]}],\"$Ld\"]}],\"$Le\",\"$Lf\",\"$L10\"]}],\"$L11\"]}],\"$L12\"]}]}],\"$L13\",\"$L14\"]}]]}],[\"$L15\",\"$L16\",\"$L17\"],\"$L18\"]}],{},null,false,false]},null,false,false],\"$L19\",false]],\"m\":\"$undefined\",\"G\":[\"$1a\",[]],\"S\":true}\n"])
+self.__next_f.push([1,"1b:I[82844,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"CtaSection\"]\n1c:I[93713,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"\"]\n1d:I[82627,[\"/2026/_next/static/chunks/e5e1a320ece5243d.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"Image\"]\n1e:I[2355,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"OutletBoundary\"]\n1f:\"$Sreact.suspense\"\n21:I[2355,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"ViewportBoundary\"]\n23:I[2355,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"MetadataBoundary\"]\nc:[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"開催日時\"}]\nd:[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg leading-relaxed pl-5\",\"children\":\"2026年6月11日（木）13:00 - 18:00\"}]\ne:[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"開催形式\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg leading-relaxed pl-5\",\"children\":\"オフライン開催（後日一部アーカイブ配信予定）\"}]]}]\nf:[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"対象者\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg leading-relaxed pl-5\",\"children\":\"システムインテグレーター（SIer）各社、事業会社の情報システム部門・DX推進部門、プロジェクトマネージャー、プロダクト責任者、業務設計担当者など\"}]]}]\n10:[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"参加費\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg leading-relaxed pl-5\",\"children\":\"無料/要事前申し込み\"}]]}]\n"])
+self.__next_f.push([1,"11:[\"$\",\"div\",null,{\"className\":\"grid grid-cols-1 md:grid-cols-2 gap-x-12\",\"children\":[[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"主催\"}]]}],[\"$\",\"div\",null,{\"className\":\"pl-5\",\"children\":[\"$\",\"a\",null,{\"href\":\"https://route06.com/jp\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer\",\"className\":\"inline-flex items-center gap-2 text-base md:text-lg underline decoration-1 hover:text-white/80 transition-colors group\",\"children\":[\"株式会社ROUTE06\",[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":16,\"height\":16,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-external-link group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform\",\"children\":[[\"$\",\"path\",\"1q9fwt\",{\"d\":\"M15 3h6v6\"}],[\"$\",\"path\",\"gplh6r\",{\"d\":\"M10 14 21 3\"}],[\"$\",\"path\",\"a6xqqp\",{\"d\":\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"}],\"$undefined\"]}]]}]}]]}],[\"$\",\"div\",null,{\"className\":\"border-b border-white/20 py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-3\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"後援\"}]]}],[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg leading-relaxed pl-5\",\"children\":\"一般社団法人 日本経済団体連合会\"}]]}]]}]\n"])
+self.__next_f.push([1,"12:[\"$\",\"div\",null,{\"className\":\"space-y-0\",\"children\":[\"$\",\"div\",null,{\"className\":\"py-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex items-start gap-3 mb-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"w-2 h-2 rounded-full bg-white mt-2 flex-shrink-0\"}],[\"$\",\"h3\",null,{\"className\":\"text-base md:text-lg font-medium text-white/80\",\"children\":\"会場情報\"}]]}],[\"$\",\"div\",null,{\"className\":\"grid md:grid-cols-2 gap-8 md:gap-12 pl-5\",\"children\":[[\"$\",\"div\",null,{\"className\":\"space-y-6\",\"children\":[[\"$\",\"div\",null,{\"children\":[[\"$\",\"a\",null,{\"href\":\"https://toda-hall.jp\",\"target\":\"_blank\",\"rel\":\"noopener noreferrer\",\"className\":\"inline-flex items-center gap-2 text-lg md:text-xl font-medium underline decoration-1 hover:text-white/80 transition-colors group\",\"children\":[\"TODA HALL \u0026 CONFERENCE TOKYO\",[\"$\",\"svg\",null,{\"ref\":\"$undefined\",\"xmlns\":\"http://www.w3.org/2000/svg\",\"width\":18,\"height\":18,\"viewBox\":\"0 0 24 24\",\"fill\":\"none\",\"stroke\":\"currentColor\",\"strokeWidth\":2,\"strokeLinecap\":\"round\",\"strokeLinejoin\":\"round\",\"className\":\"lucide lucide-external-link group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform\",\"children\":[[\"$\",\"path\",\"1q9fwt\",{\"d\":\"M15 3h6v6\"}],[\"$\",\"path\",\"gplh6r\",{\"d\":\"M10 14 21 3\"}],[\"$\",\"path\",\"a6xqqp\",{\"d\":\"M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6\"}],\"$undefined\"]}]]}],[\"$\",\"p\",null,{\"className\":\"text-base md:text-lg text-white/70 mt-1\",\"children\":\"（トダ ホール＆カンファレンス トウキョウ）\"}]]}],[\"$\",\"div\",null,{\"className\":\"text-base md:text-lg text-white/70 leading-relaxed\",\"children\":[[\"$\",\"p\",null,{\"children\":\"〒104-0031\"}],[\"$\",\"p\",null,{\"children\":\"東京都中央区京橋一丁目7番1号\"}],[\"$\",\"p\",null,{\"children\":\"TODA BUILDING 4階\"}]]}],[\"$\",\"div\",null,{\"className\":\"space-y-2 text-sm md:text-base text-white/70\",\"children\":[[\"$\",\"p\",null,{\"children\":\"・東京駅八重洲中央口から徒歩7分\"}],[\"$\",\"p\",null,{\"children\":\"・京橋駅から徒歩3分\"}],[\"$\",\"p\",null,{\"children\":\"・日本橋駅から徒歩5分\"}],[\"$\",\"p\",null,{\"children\":\"・宝町駅から徒歩7分\"}]]}]]}],[\"$\",\"div\",null,{\"className\":\"h-full min-h-[300px]\",\"children\":[\"$\",\"div\",null,{\"className\":\"h-full rounded-lg overflow-hidden\",\"children\":[\"$\",\"iframe\",null,{\"src\":\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6481.89180607828!2d139.771515!3d35.678334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b3f5d5a09f1%3A0xa120ec4758208f3e!2zVE9EQSBIQUxMICYgQ09ORkVSRU5DRSBUT0tZTyjjg4jjg4Ag44Ob44O844Or77yG44Kr44Oz44OV44Kh44Os44Oz44K5IOODiOOCpuOCreODp-OCpik!5e0!3m2!1sja!2sus!4v1766979938223!5m2!1sja!2sus\",\"width\":\"100%\",\"height\":\"100%\",\"style\":{\"border\":0,\"filter\":\"grayscale(100%) contrast(1.1)\"},\"allowFullScreen\":true,\"loading\":\"lazy\",\"referrerPolicy\":\"no-referrer-when-downgrade\",\"title\":\"TODA HALL \u0026 CONFERENCE TOKYO\"}]}]}]]}]]}]}]\n"])
+self.__next_f.push([1,"13:[\"$\",\"$L1b\",null,{}]\n"])
+self.__next_f.push([1,"14:[\"$\",\"footer\",null,{\"className\":\"bg-[#313337] text-white py-12 md:py-16\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-7xl px-4 md:px-5 lg:px-6\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex flex-col md:flex-row md:flex-wrap lg:flex-nowrap lg:items-center lg:justify-between gap-12 mb-12\",\"children\":[[\"$\",\"div\",null,{\"children\":[\"$\",\"$L1c\",null,{\"href\":\"/\",\"children\":[\"$\",\"$L1d\",null,{\"src\":\"/2026/images/route06-white-horizontal.svg\",\"alt\":\"ROUTE06\",\"width\":200,\"height\":50,\"className\":\"h-12 w-auto\"}]}]}],[\"$\",\"div\",null,{\"className\":\"flex flex-col gap-6 sm:flex-row sm:items-center sm:gap-8 lg:ml-auto lg:gap-12\",\"children\":[\"$\",\"nav\",null,{\"className\":\"flex flex-wrap gap-x-6 gap-y-3\",\"children\":[[\"$\",\"$L1c\",\"/#speakers\",{\"href\":\"/#speakers\",\"className\":\"text-sm text-white/70 hover:text-white transition-colors\",\"children\":\"Speakers\"}],[\"$\",\"$L1c\",\"/interview\",{\"href\":\"/interview\",\"className\":\"text-sm text-white/70 hover:text-white transition-colors\",\"children\":\"Interview\"}],[\"$\",\"$L1c\",\"/#program\",{\"href\":\"/#program\",\"className\":\"text-sm text-white/70 hover:text-white transition-colors\",\"children\":\"Timetable\"}],[\"$\",\"$L1c\",\"/#information\",{\"href\":\"/#information\",\"className\":\"text-sm text-white/70 hover:text-white transition-colors\",\"children\":\"Information\"}]]}]}]]}],[\"$\",\"div\",null,{\"className\":\"h-px bg-white/20 mb-8\"}],[\"$\",\"div\",null,{\"className\":\"flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-sm text-white/50\",\"children\":[[\"$\",\"p\",null,{\"children\":\"© 2026 AI Requirements Definition Summit. All rights reserved.\"}],[\"$\",\"p\",null,{\"children\":\"Organized by ROUTE06, Inc.\"}]]}]]}]}]\n"])
+self.__next_f.push([1,"15:[\"$\",\"script\",\"script-0\",{\"src\":\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"async\":true,\"nonce\":\"$undefined\"}]\n16:[\"$\",\"script\",\"script-1\",{\"src\":\"/2026/_next/static/chunks/12e5a5ba19bf3732.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"async\":true,\"nonce\":\"$undefined\"}]\n17:[\"$\",\"script\",\"script-2\",{\"src\":\"/2026/_next/static/chunks/4e27a1bd660cc690.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"async\":true,\"nonce\":\"$undefined\"}]\n18:[\"$\",\"$L1e\",null,{\"children\":[\"$\",\"$1f\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@20\"}]}]\n19:[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",\"$L21\",null,{\"children\":\"$@22\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$L23\",null,{\"children\":[\"$\",\"$1f\",null,{\"name\":\"Next.Metadata\",\"children\":\"$@24\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}]\n"])
+self.__next_f.push([1,"22:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n"])
+self.__next_f.push([1,"25:I[62643,[\"/2026/_next/static/chunks/abfcc522d69fa6e8.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\",\"/2026/_next/static/chunks/1af356a7ef559e7e.js?dpl=dpl_5xnrupfXAYaHZyX5nE8W49JUjtMz\"],\"IconMark\"]\n"])
+self.__next_f.push([1,"24:[[\"$\",\"title\",\"0\",{\"children\":\"AI要件定義サミット 2026 | AI Definition Summit\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"AI要件定義が支える、カスタマイズ大国・日本のシステム設計の未来。2026年6月11日、TODAホール＆カンファレンス TOKYOにて開催。\"}],[\"$\",\"meta\",\"2\",{\"name\":\"generator\",\"content\":\"v0.app\"}],[\"$\",\"meta\",\"3\",{\"name\":\"keywords\",\"content\":\"AI,要件定義,システム開発,サミット,カンファレンス,DX,デジタルトランスフォーメーション\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content\":\"AI要件定義サミット 2026\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:description\",\"content\":\"AI要件定義が支える、カスタマイズ大国・日本のシステム設計の未来。\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\",\"content\":\"https://ai-requirement-definition-summit.com/2026\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:site_name\",\"content\":\"AI要件定義サミット 2026\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:locale\",\"content\":\"ja_JP\"}],[\"$\",\"meta\",\"9\",{\"property\":\"og:image\",\"content\":\"https://ai-requirement-definition-summit.com/2026/images/ogp.png\"}],[\"$\",\"meta\",\"10\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"11\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"12\",{\"property\":\"og:image:alt\",\"content\":\"AI要件定義サミット 2026\"}],[\"$\",\"meta\",\"13\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"14\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:title\",\"content\":\"AI要件定義サミット 2026\"}],[\"$\",\"meta\",\"16\",{\"name\":\"twitter:description\",\"content\":\"AI要件定義が支える、カスタマイズ大国・日本のシステム設計の未来。\"}],[\"$\",\"meta\",\"17\",{\"name\":\"twitter:image\",\"content\":\"https://ai-requirement-definition-summit.com/2026/images/ogp.png\"}],[\"$\",\"link\",\"18\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/favicon.svg\",\"type\":\"image/svg+xml\"}],[\"$\",\"link\",\"19\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/black-32x32.png\",\"type\":\"image/png\",\"sizes\":\"32x32\",\"media\":\"(prefers-color-scheme: light)\"}],[\"$\",\"link\",\"20\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/black-192x192.png\",\"type\":\"image/png\",\"sizes\":\"192x192\",\"media\":\"(prefers-color-scheme: light)\"}],[\"$\",\"link\",\"21\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/black-512x512.png\",\"type\":\"image/png\",\"sizes\":\"512x512\",\"media\":\"(prefers-color-scheme: light)\"}],[\"$\",\"link\",\"22\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/white-32x32.png\",\"type\":\"image/png\",\"sizes\":\"32x32\",\"media\":\"(prefers-color-scheme: dark)\"}],[\"$\",\"link\",\"23\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/white-192x192.png\",\"type\":\"image/png\",\"sizes\":\"192x192\",\"media\":\"(prefers-color-scheme: dark)\"}],[\"$\",\"link\",\"24\",{\"rel\":\"icon\",\"href\":\"/2026/favicon/white-512x512.png\",\"type\":\"image/png\",\"sizes\":\"512x512\",\"media\":\"(prefers-color-scheme: dark)\"}],[\"$\",\"link\",\"25\",{\"rel\":\"apple-touch-icon\",\"href\":\"/2026/favicon/black-180x180.png\",\"sizes\":\"180x180\",\"media\":\"(prefers-color-scheme: light)\"}],[\"$\",\"link\",\"26\",{\"rel\":\"apple-touch-icon\",\"href\":\"/2026/favicon/white-180x180.png\",\"sizes\":\"180x180\",\"media\":\"(prefers-color-scheme: dark)\"}],[\"$\",\"$L25\",\"27\",{}]]\n"])
+self.__next_f.push([1,"20:null\n"])
